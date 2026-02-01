@@ -2,8 +2,6 @@
 Support module for directive_deprecated.
 """
 
-##test
-
 from typing import Self, overload
 from typing_extensions import deprecated
 
